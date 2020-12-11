@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  color: rgb(253, 14, 14);
+  font-size: 3rem;
+}
+
+.para {
+  margin-top: 3rem;
+}
+
+.btn {
+  margin-left: 1rem;
+  margin-top: 2rem;
+  padding: 0.8rem;
+  border-radius: 53px;
+  font-size: 1rem;
+  outline: none;
+}
+
+.listitems {
+  list-style: none;
+  padding: 0.8rem;
+  margin-top: 3rem;
+  border: 2px solid rgb(34, 33, 33);
+  background-color: rgb(248, 236, 123);
+  color: rgb(15, 3, 61);
+  font-size: 1.3rem;
+  border-radius: 25px;
+}
+
+.item-ratings {
+  margin-top: 1rem;
+}
